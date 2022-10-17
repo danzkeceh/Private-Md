@@ -18,14 +18,14 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'ALVIN SCRIPT'
+global.ownername = 'MAZZ WAR'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['60176899382','60176899382','60176899382']
-global.premium = ['60176899382']
-global.packname = 'Alvin Official'
+global.owner = ['6282129801595','62895708744800','60176899382']
+global.premium = ['6282129801595']
+global.packname = 'Mazz Official'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
