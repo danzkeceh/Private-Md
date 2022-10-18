@@ -23,7 +23,7 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6282129801595','62895708744800','62895384907062']
+global.owner = ['6282129801595','62895708744800','6285882330696']
 global.premium = ['6282129801595']
 global.packname = 'Mazz Official'
 global.author = 'WhatsApp Bot'
